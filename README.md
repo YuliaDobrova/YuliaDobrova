@@ -13,8 +13,7 @@
 <img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" style="max-width:100%;">
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;">
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;">
-
-<br/>
+<br> <br/>
 Also, I have hands-on experience in Agile & Scrum methodologies when working in a team 🧍🏻‍♀️🧍🏻🧍🏻‍♂️
 <br/>
 I'm looking for a friendly team 👭🏻 and ready for challenging tasks 🏃🏻‍♀️🏋🏻‍♀️
@@ -23,9 +22,9 @@ I am a fast learner, responsible and I strive for self-development
 <br/>
 I’m currently learning Node.js 💻
 <br/>
-📫 To reach me leave a message here <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/">MyLinkedIn</a>
+To reach me leave a message here <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/">MyLinkedIn</a> 📫
 
-<!--
+ <!--
 **YuliaDobrova/YuliaDobrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
