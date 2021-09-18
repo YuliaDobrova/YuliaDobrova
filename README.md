@@ -1,8 +1,8 @@
-### Hi there 👋🏻🙋🏻, my name is Yulia!
+### Hi there 👋🏻, my name is Yulia!🙋🏻
 
-### I am a Front-End Developer 👩🏻‍💻
+### I am Front-End Developer 👩🏻‍💻
 
-### I have sound knowledge of:
+I have a sound knowledge of:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
@@ -20,8 +20,6 @@ I'm currently learning Node.js
 <br/>
 <!-- <img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-
-<br> <br/>
 Also, I have hands-on experience in Agile & Scrum methodologies when working in a team 🧍🏻‍♀️🧍🏻🧍🏻‍♂️
 <br/>
 I am a fast learner, responsible and I strive for self-development ✨
