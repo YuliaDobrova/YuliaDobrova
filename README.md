@@ -27,7 +27,7 @@ I'm looking for a friendly team 👭🏻 and ready for challenging tasks 🏃�
 I am a fast learner, responsible and I strive for self-development
 
 <br/>
-To reach me leave a message here <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/"><img align="left" alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+To reach me visit my profile on this link  <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 
  <!--
 **YuliaDobrova/YuliaDobrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
