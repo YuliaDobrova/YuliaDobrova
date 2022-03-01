@@ -1,8 +1,8 @@
 ### Hi there 👋🏻, my name is Yulia!🙋🏻
 
-### I am Full-Stack Developer 👩🏻‍💻
+### I am a Full-Stack Developer 👩🏻‍💻
 
-I have a sound knowledge of:
+⚡ I have a sound knowledge of:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
@@ -17,27 +17,6 @@ I have a sound knowledge of:
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <br> <br/>
-Also, I have hands-on experience in Agile & Scrum methodologies when working in a team 🧍🏻‍♀️🧍🏻🧍🏻‍♂️
+Also, I have hands-on experience in Agile & Scrum methodologies while working in a team 👭 & I'm and ready for challenging tasks 🏃🏻‍♀️🏋.
 <br/>
-I am a fast learner, responsible and I strive for self-development ✨
-<br/>
-I'm looking for a friendly team 👭🏻 and ready for challenging tasks 🏃🏻‍♀️🏋🏻‍♀️
-<br/>
-To reach me visit my profile on this link <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-
- <!--
-**YuliaDobrova/YuliaDobrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img align="left" alt="TypeScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 To reach me visit my profile on this link <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
