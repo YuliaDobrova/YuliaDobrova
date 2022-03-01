@@ -17,6 +17,6 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <br> <br/>
-Also, I have hands-on experience in Agile & Scrum methodologies while working in a team 👭 & I'm and ready for challenging tasks 🏃🏻‍♀️🏋.
+I have hands-on experience in Agile & Scrum methodologies while working in a team 👭 & I'm and ready for challenging tasks 🏃🏻‍♀️🏋.
 <br/>
 📫 To reach me visit my profile on this link <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
