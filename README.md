@@ -1,6 +1,6 @@
 ### Hi there 👋🏻, my name is Yulia!🙋🏻
 
-### I am a Full-Stack Developer 👩🏻‍💻
+### I am a Frontend Developer 👩🏻‍💻
 
 ⚡ I have a sound knowledge of:
 
@@ -21,4 +21,4 @@
 <br> <br/>
 I have hands-on experience in Agile & Scrum methodologies while working in a team 👭 & I'm and ready for challenging tasks 🏃🏻‍♀️🏋.
 <br/>
-📫 To reach me visit my profile on this link <a href="https://www.linkedin.com/in/yulia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+📫 To reach me visit my profile on this link <a href="https://www.linkedin.com/in/yuliia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
