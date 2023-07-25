@@ -19,5 +19,6 @@ Experienced Front-end Developer with a demonstrated history of working in the in
 <br/>
 To reach me visit my profile on my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
-Get more information in my Resume--> <a href="https://yuliadobrova.github.io/my-resume/"><img  alt="resume" width="20px" src="https://www.flaticon.com/free-icon/cv_3135686" /></a>
+To get more information visit my Resume Page --> <a href="https://yuliadobrova.github.io/my-resume/"><img  alt="resume" width="20px" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" /></a>
+
 
