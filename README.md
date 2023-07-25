@@ -1,4 +1,4 @@
-### Hello 🙋🏻, my name is Yuliia & I am a Front-end Developer 👩🏻‍💻
+## Front-end Developer 👩🏻‍💻
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
@@ -17,4 +17,6 @@
 <br> <br/>
 Experienced Front-end Developer with a demonstrated history of working in the information technology and services industry. 
 <br/>
-📫 To reach me visit my profile on this my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+To reach me visit my profile on my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova-37a335217/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+Get more information in my Resume--> <a href="https://yuliadobrova.github.io/my-resume/"><img  alt="linkedin" width="20px" src="https://www.flaticon.com/free-icon/cv_3135686)https://www.flaticon.com/free-icon/cv_3135686" /></a>
+
