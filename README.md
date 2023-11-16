@@ -16,8 +16,11 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <br> <br/>
 Experienced Front-end Developer with a history of over 3 years in websites and applications development. Passionate about in Tech Industry and its diversity, always willing to create, fix and innovate. Proficient in such technologies as HTML, CSS, JavaScript, TypeScript, React, Redux, RESTful web services and Git/GitHub, with knowledge of Back-end based on Node.js, and many others.
+<br/>
  I have hands-on experience in Agile & Scrum methodologies, making me a responsible and reliable team-player. Participated in collaborative Git usage, creating a social media platform with a team of up to 7 developers meeting tight deadlines. 
+<br/>
  I am a fast learner and always strive for self-development. Strong professional holding a Master's degree in water resources management with a background of more than 10 years in design-engineering and leading working positions, before I discovered my passion for Front-end and decided to switch my career. 
+<br/>
  Since my recent relocation from Europe to Canada, I am looking for a full-time position as Front-end Developer in British Columbia. I am very motivated and I will do all my best to make a contribution to the company's growth.
 <br/>
 To reach me visit my profile on my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
