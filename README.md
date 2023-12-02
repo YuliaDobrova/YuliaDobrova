@@ -14,6 +14,7 @@
 <img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
+<img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
 <br> <br/>
 Experienced Front-end Developer with a history of over 3 years in websites and applications development. Passionate about in Tech Industry and its diversity, always willing to create, fix and innovate. Proficient in such technologies as HTML, CSS, JavaScript, TypeScript, React, Redux, RESTful web services and Git/GitHub, with knowledge of Back-end based on Node.js, and many others.
 <br/>
