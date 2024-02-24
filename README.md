@@ -1,4 +1,4 @@
-## Front-End Developer 👩🏻‍💻
+## Full-Stack Software Developer 👩🏻‍💻
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
@@ -16,13 +16,15 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
 <br> <br/>
-Experienced Front-end Developer with a history of over 3 years in websites and applications development. Passionate about in Tech Industry and its diversity, always willing to create, fix and innovate. Proficient in such technologies as HTML, CSS, JavaScript, TypeScript, React, Redux, RESTful web services and Git/GitHub, with knowledge of Back-end based on Node.js, and many others.
+Experienced Front-end Developer with a history of over 3 years in websites and applications development. 
 <br/>
- I have hands-on experience in Agile & Scrum methodologies, making me a responsible and reliable team-player. Participated in collaborative Git usage, creating a social media platform with a team of up to 7 developers meeting tight deadlines. 
+Proficient in HTML, CSS, JavaScript, TypeScript, React, Redux, RESTAPI, Node.js. 
 <br/>
- I am a fast learner and always strive for self-development. Strong professional holding a Master's degree in water resources management with a background of more than 10 years in design-engineering and leading working positions, before I discovered my passion for Front-end and decided to switch my career. 
+Participated in collaborative Git usage, creating a social media platform with a team of up to 7 developers meeting tight deadline of 3 months.  
 <br/>
- Since my recent relocation from Europe to Canada, I am looking for a full-time position as Front-end Developer in British Columbia. I am very motivated and I will do all my best to make a contribution to the company's growth.
+Background: strong professional holding a Master's degree in water resources management with more than 10 years in Civil Design-Engineering and leading working positions in that field. As the Head of the Project Department, I effectively supervised a team of over 30 different engineers and successfully completed 50 projects within a 6 month timeframe.  
+<br/>
+Currently I am looking for a full-time position as a Full-Stack Software Developer, willing to strengthen the team with my skills and desire to create, fix, innovate. 
 <br/>
 To reach me visit my profile on my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
