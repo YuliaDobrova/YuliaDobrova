@@ -16,7 +16,7 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
 <br> <br/>
-Experienced Front-end Developer with a history of over 3 years in websites and applications development. 
+Experienced Full-Stack Software Developer with a history of over 3 years in application and website development.
 <br/>
 Proficient in HTML, CSS, JavaScript, TypeScript, React, Redux, RESTAPI, Node.js. 
 <br/>
