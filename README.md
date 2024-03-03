@@ -22,7 +22,7 @@ Proficient in HTML, CSS, JavaScript, TypeScript, React, Redux, RESTAPI, Node.js.
 <br/>
 Participated in collaborative Git usage, creating a social media platform with a team of up to 7 developers meeting tight deadline of 3 months.  
 <br/>
-Background: strong professional holding a Master's degree in water resources management with more than 10 years in Civil Design-Engineering and leading working positions in that field. As the Head of the Project Department, I effectively supervised a team of over 30 different engineers and successfully completed 50 projects within a 6 month timeframe.  
+Strong professional holding a Master's degree in water resources management with a background of more than 10 years in Civil Design-Engineering and leading working positions in that field. As the Head of the Project Department, I effectively supervised a team of over 30 different engineers and successfully completed 50 projects within a 6 month timeframe.  
 <br/>
 Currently I am looking for a full-time position as a Full-Stack Software Developer, willing to strengthen the team with my skills and desire to create, fix, innovate. 
 <br/>
