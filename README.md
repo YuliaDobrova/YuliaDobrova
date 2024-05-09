@@ -18,34 +18,26 @@
 <br> <br/>
  <h4>
                     Experienced
-                    <strong>Full-Stack Software Developer</strong> with a
-                    history of over <strong>5 years</strong> in application and
+                    <b>Full-Stack Software Developer</b> with a
+                    history of over <b>5 years</b> in application and
                     website development.
                   </h4>
                   <p>
-                    Skilled in in HTML, CSS, JavaScript, TypeScript, React,
-                    Redux, and Node.js. 🚀
+                    Skilled in HTML, CSS, SCSS, JavaScript, TypeScript, React,
+                    Redux, Node.js. 
                   </p>
                   <p>
                     Worked on various projects, from developing solo-projects
                     and web applications to contributing to social media
-                    platforms and school management systems.
-                  </p>
-                  <p>
-                    Participated in collaborative Git usage with a
-                    <span>team of 7 developers</span>, together creating
+                    platforms and school management systems. Participated in collaborative Git usage with a
+                    team of 7 developers, together creating
                     ambitious and challenging projects.
                   </p>
                   <p>
                     Technical background in Civil Design Engineering holding a
-                    <span>Bachelor's degree</span>, offering over 10 years of
-                    both executive and management positions. <br />
-                    As the Head of the Project Department, I effectively
-                    <span
-                      >supervised a team of over 30 different engineers</span
-                    >
-                    and successfully <span>completed 50 projects</span> within a
-                    6 month timeframe meeting deadlines.
+                    <b>Bachelor's degree</b>, offering over 10 years of
+                    both executive and management positions. As the Head of the Project Department, I effectively supervised a team of over 30 different engineers
+                    and successfully completed 50 projects within a 6 month timeframe meeting deadlines.
                   </p>
                   <p>
                     Currently I am looking for a full-time position as a
@@ -54,8 +46,8 @@
                   </p>
 
 <br/>
-  <a href="https://github.com/YuliaDobrova"><img alt="YuliaDobrova's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YuliaDobrova&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="100%"/></a>
-
+ <div> <a href="https://github.com/YuliaDobrova"><img alt="YuliaDobrova's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YuliaDobrova&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="100%"/></a>
+ </div>
 To reach me visit my profile on LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/" target="_blank"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
 <a href="https://yuliiadobrova.com" target="_blank">MY PERSONAL WEBPAGE: yuliiadobrova.com </a>
