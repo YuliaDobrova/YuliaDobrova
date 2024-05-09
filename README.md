@@ -54,6 +54,12 @@
                   </p>
 
 <br/>
+<p align="center">
+  <a href="https://github.com/YuliaDobrova">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuliaDobrova&theme=radical&border=7F3FBF&background=0D1117" alt="YuliaDobrova's GitHub streak"/>
+  </a>
+</p>
+
 To reach me visit my profile on LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/" target="_blank"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
 <a href="https://yuliiadobrova.com" target="_blank">MY PERSONAL WEBPAGE: yuliiadobrova.com </a>
