@@ -15,7 +15,43 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
-<br/>
+<br> <br/>
+ <h3>
+                    Experienced
+                    <strong>Full-Stack Software Developer</strong> with a
+                    history of over <strong>5 years</strong> in application and
+                    website development.
+                  </h3>
+                  <p>
+                    Skilled in in HTML, CSS, JavaScript, TypeScript, React,
+                    Redux, and Node.js. 🚀
+                  </p>
+                  <p>
+                    Worked on various projects, from developing solo-projects
+                    and web applications to contributing to social media
+                    platforms and school management systems.
+                  </p>
+                  <p>
+                    Participated in collaborative Git usage with a
+                    <span>team of 7 developers</span>, together creating
+                    ambitious and challenging projects.
+                  </p>
+                  <p>
+                    Technical background in Civil Design Engineering holding a
+                    <span>Bachelor's degree</span>, offering over 10 years of
+                    both executive and management positions. <br />
+                    As the Head of the Project Department, I effectively
+                    <span
+                      >supervised a team of over 30 different engineers</span
+                    >
+                    and successfully <span>completed 50 projects</span> within a
+                    6 month timeframe meeting deadlines.
+                  </p>
+                  <p>
+                    Currently I am looking for a full-time position as a
+                    Full-Stack Software Developer, willing to strengthen the
+                    team with my skills and desire to create, fix, innovate.
+                  </p>
 Experienced Full-Stack Software Developer with a history of over 5 years in application and website development.
 <br/>
 Proficient in HTML, CSS, JavaScript, TypeScript, React, Redux, RESTAPI, Node.js. 
