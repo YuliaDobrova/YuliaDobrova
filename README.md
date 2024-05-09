@@ -28,6 +28,6 @@ Currently I am looking for a full-time position as a Full-Stack Software Develop
 <br/>
 To reach me visit my profile on my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
-
+<a href="https://yuliiadobrova.com">MORE DETAILS ON MY PERSONAL WEBPAGE - yuliiadobrova.com </a>
 
 
