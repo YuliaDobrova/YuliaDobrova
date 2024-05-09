@@ -54,11 +54,7 @@
                   </p>
 
 <br/>
-<p align="center">
-  <a href="https://github.com/YuliaDobrova">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuliaDobrova&theme=radical&border=7F3FBF&background=0D1117" alt="YuliaDobrova's GitHub streak"/>
-  </a>
-</p>
+  <a href="https://github.com/YuliaDobrova"><img alt="YuliaDobrova's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YuliaDobrova&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
 To reach me visit my profile on LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/" target="_blank"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
