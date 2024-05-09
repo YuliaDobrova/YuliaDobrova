@@ -15,7 +15,7 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
-<br> <br/>
+<br/>
 Experienced Full-Stack Software Developer with a history of over 5 years in application and website development.
 <br/>
 Proficient in HTML, CSS, JavaScript, TypeScript, React, Redux, RESTAPI, Node.js. 
@@ -26,8 +26,8 @@ Strong professional holding a Master's degree in water resources management with
 <br/>
 Currently I am looking for a full-time position as a Full-Stack Software Developer, willing to strengthen the team with my skills and desire to create, fix, innovate. 
 <br/>
-To reach me visit my profile on my LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+To reach me visit my profile on LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/" target="_blank"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
-<a href="https://yuliiadobrova.com">MORE DETAILS ON MY PERSONAL WEBPAGE - yuliiadobrova.com </a>
+<a href="https://yuliiadobrova.com" target="_blank">MY PERSONAL WEBPAGE: yuliiadobrova.com </a>
 
 
