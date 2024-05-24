@@ -1,4 +1,4 @@
-## Full-Stack Software Developer 👩🏻‍💻
+## Front End Software Developer 👩🏻‍💻
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
@@ -18,7 +18,7 @@
 <br> <br/>
  <h4>
                     Experienced
-                    <b>Full-Stack Software Developer</b> with a
+                    <b>Front End Software Developer</b> with a
                     history of over <b>5 years</b> in application and
                     website development.
                   </h4>
@@ -41,7 +41,7 @@
                   </p>
                   <p>
                     Currently I am looking for a full-time position as a
-                    Full-Stack Software Developer, willing to strengthen the
+                    Front End Software Developer, willing to strengthen the
                     team with my skills and desire to create, fix, innovate.
                   </p>
 
@@ -50,6 +50,6 @@
  </div>
 To reach me visit my profile on LinkedIn --> <a href="https://www.linkedin.com/in/yuliia-dobrova/" target="_blank"><img  alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br/>
-<a href="https://yuliiadobrova.com" target="_blank">MY PERSONAL WEBPAGE: yuliiadobrova.com </a>
+<a href="https://yuliiadobrova.com" target="_blank">MY PERSONAL WEBPAGE: https://yuliiadobrova.com </a>
 
 
