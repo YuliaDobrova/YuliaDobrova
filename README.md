@@ -1,4 +1,11 @@
-## Front End Software Developer 👩🏻‍💻
+## Software Engineer / Front End Developer 👩🏻‍💻
+** specializing in JavaScript, TypeScript, React.js, Node.js **
+
+• Experienced Software Engineer with a history of over 5 years in application and website development.
+• Managed multiple projects meeting tight deadlines and optimizing code for performance.
+• Worked on various projects, from developing solo-projects and web applications to contributing to social media platforms and school management systems.
+• Proven track record of working effectively in agile development teams, contributing to all phases of the software development lifecycle.
+• Civil Design-Engineering background offers a unique blend of technical and administrative skills for software projects. 
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
@@ -15,36 +22,6 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
-<br> <br/>
- <h4>
-                    Experienced
-                    <b>Front End Software Developer</b> with a
-                    history of over <b>5 years</b> in application and
-                    website development.
-                  </h4>
-                  <p>
-                    Skilled in HTML, CSS, SCSS, JavaScript, TypeScript, React,
-                    Redux, Node.js. 
-                  </p>
-                  <p>
-                    Worked on various projects, from developing solo-projects
-                    and web applications to contributing to social media
-                    platforms and school management systems. Participated in collaborative Git usage with a
-                    team of 7 developers, together creating
-                    ambitious and challenging projects.
-                  </p>
-                  <p>
-                    Technical background in Civil Design Engineering holding a
-                    <b>Bachelor's degree</b>, offering over 10 years of
-                    both executive and management positions. As the Head of the Project Department, I effectively supervised a team of over 30 different engineers
-                    and successfully completed 50 projects within a 6 month timeframe meeting deadlines.
-                  </p>
-                  <p>
-                    Currently I am looking for a full-time position as a
-                    Front End Software Developer, willing to strengthen the
-                    team with my skills and desire to create, fix, innovate.
-                  </p>
-
 <br/>
  <div> <a href="https://github.com/YuliaDobrova"><img alt="YuliaDobrova's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YuliaDobrova&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="100%"/></a>
  </div>
