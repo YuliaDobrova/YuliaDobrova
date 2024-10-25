@@ -1,13 +1,13 @@
 ## Software Developer 👩🏻‍💻
 **specializing in JavaScript, TypeScript, React.js, Node.js**
-
+<p>
 Experienced Software Engineer with over 5 years of expertise in application and web development. I have a proven track record of working effectively on a variety of projects, from solo web applications to large-scale systems, including an international social media platform, a school management system, an insurance claims processing app.
 
 Skilled in contributing to all phases of the software development lifecycle, I have excelled in agile team environments and consistently delivered high-quality work on tight deadlines. My background in Civil Engineering enhances my technical capabilities with a strong foundation in problem-solving and project management.
-
-• Frontend: HTML, CSS, JavaScript, TypeScript, React, React Router, React Query, Redux Toolkit, Material UI, Bootstrap, jQuery, SCSS, Axios
-• Backend: Node.js, Express.js, MongoDB, REST API
-• Tools: WebSocket, Postman, GitHub, Figma, Click-Up, Slack
+</p>
+• Frontend: HTML, CSS, JavaScript, TypeScript, React, React Router, React Query, Redux Toolkit, Material UI, Bootstrap, jQuery, SCSS, Axios <br/>
+• Backend: Node.js, Express.js, MongoDB, REST API <br/>
+• Tools: WebSocket, Postman, GitHub, Figma, Click-Up, Slack <br/>
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
