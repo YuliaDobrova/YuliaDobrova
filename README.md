@@ -10,6 +10,7 @@ Skilled in contributing to all phases of the software development lifecycle, I h
 • Backend: Node.js, Express.js, MongoDB, REST API <br/>
 • Tools: WebSocket, Postman, GitHub, Figma, Click-Up, Slack 
 
+<div>
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
@@ -26,6 +27,7 @@ Skilled in contributing to all phases of the software development lifecycle, I h
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
 <img align="left" alt="Postman" width="32px" src="https://cdn.coursehunter.net/category/postman.png" /> 
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
+ </div>
 <br/>
 <br/>
 <!--  <div> <a href="https://github.com/YuliaDobrova"><img alt="YuliaDobrova's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YuliaDobrova&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180px" width="100%"/></a>
