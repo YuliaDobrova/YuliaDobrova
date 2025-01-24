@@ -6,13 +6,13 @@ Experienced Software Engineer with over 5 years of expertise in application and 
 <p>
 Skilled in contributing to all phases of the software development lifecycle, I have excelled in agile team environments and consistently delivered high-quality work on tight deadlines. My background in Civil Engineering enhances my technical capabilities with a strong foundation in problem-solving and project management.
 </p>
-<br/>
+
 • Languages: HTML, CSS, JavaScript (ES6), TypeScript, Python <br/>
 • Frontend: VanillaJS, SASS/SCSS, React, React-Router, React-Hook-Form, React Query, Redux, Redux Toolkit, WebSocket, Axios, Material UI, Bootstrap, jQuery, Styled Components, Vercel, Netlify, Next.js <br/>
 • Backend: Node.js, Express.js, RESTful API, MongoDB, NoSQL, SQL <br/>
 • Developer Tools: VSCode, GIT, GitHub, Postman, Swagger, Webpack, Vite, NPM, Yarn, Jest, React Testing Library <br/>
 • Design & Civil Design Tools: Figma, Canva, Photoshop, AutoCAD <br/>
-• Management Software: Click-Up, Jira, Trello, Slack, Discord, Zoom, MeetUp, Microsoft Office <br/>
+• Management Software: Click-Up, Jira, Trello, Slack, Discord, Zoom, MeetUp, Microsoft Office 
 
 <div>
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
